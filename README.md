@@ -1,2 +1,3 @@
 # ReinventTheWheelHackathon
-Our solution for problem 1 in the hackathon
+My solution for problem 1 in the hackathon
+(.895 score)
